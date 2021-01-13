@@ -1,0 +1,1 @@
+c:\users\facha\documents\visual studio 2015\Projects\CaseSensitive\CaseSensitive\bin\Debug\CaseSensitive.exe.config
